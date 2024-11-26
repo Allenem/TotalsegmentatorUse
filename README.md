@@ -1,0 +1,1 @@
+# Record some notes about usage of the `TotalSegmentator`
